@@ -21,4 +21,4 @@ Expected Behavior:
 Actual Behavior:
 - The application crashes immediately upon startup. No user interface is displayed, and an error message appears.
 
-**Screenshot/Video of the error message:**
+Screenshot/Video of the error message:
