@@ -1,38 +1,16 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: "[BUG] <Short Description of the bug>"
-labels: ''
-assignees: ''
+Subject: Bug Report - Application Crashes on Startup
+Version: 2.0.1
+Platform: Windows 10
+Severity: Critical
 
----
+Steps to Reproduce:
+- Install MyCoolApp v2.0.1 on a Windows 10 machine.
+- Launch the application.
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+Expected Behavior:
+The application should start without any issues, displaying the main user interface.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Actual Behavior:
+The application crashes immediately upon startup. No user interface is displayed, and an error message appears.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser: [e.g. chrome, safari]
- - Version: [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser: [e.g. stock browser, safari]
- - Version: [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+Screenshot of the error message: 
