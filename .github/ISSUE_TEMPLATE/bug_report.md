@@ -1,3 +1,11 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: "[BUG] <Short Description of the bug>"
+labels: ''
+assignees: ''
+---
+
 Subject: Bug Report - Application Crashes on Startup
 Version: 2.0.1
 Platform: Windows 10
