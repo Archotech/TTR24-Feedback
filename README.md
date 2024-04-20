@@ -12,7 +12,7 @@ To report a bug, follow these steps:
 
 2. **Create a New Issue**: If you couldn't find an existing issue for your problem, click on the "Report page" like and then choose the right template for your problem. Fill out the issue template with as much detail as possible, including steps to reproduce the bug, expected behavior, and any relevant screenshots or error messages.
 
-3. **Label and Assign**: Once you've created the issue, our team will review it and assign appropriate labels. These labels help us categorize and prioritize bugs more effectively. If everything is OK, we will move the issue to our private board for futher investigation.
+3. **Label and Assign**: Once you've created the issue, our team will review it and assign appropriate labels. These labels help us categorize and prioritize bugs more effectively. If everything is OK, we will attach the issue to our private project for futher investigation and fixing.
 
 4. **Engage in Discussion**: Feel free to engage in discussions on the issue thread. Our team may ask for additional information or provide updates on the progress of the bug fix.
 
